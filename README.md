@@ -16,10 +16,10 @@ I build AI systems that solve real-world problems — from graph neural networks
 
 ### 🎓 About Me
 
-- B.Tech CSE (AI & ML) @ PES University — **CGPA 9.75**
+- B.Tech CSE (AI & ML) @ PES University — **CGPA 9.73**
 - MRD Scholar (Top 5% of department)
 - AI Researcher with publications in Computer Vision, Bioinformatics, and Machine Learning
-- Actively looking for **new-grad AI/ML and SWE roles**
+- Actively looking for **new-grad AI/ML roles**
 
 **Currently exploring:** Graph Neural Networks · Large Language Models · Computer Vision · AI Security · Information Retrieval
 
