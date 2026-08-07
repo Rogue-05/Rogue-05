@@ -73,7 +73,7 @@ I build AI systems that solve real-world problems — from graph neural networks
 ### 💻 LeetCode
 
 <p align="center">
-<img src="https://leetcode-stats-six.vercel.app/?username=Rogue_05&theme=dark"/>
+<a href="https://leetcode.com/u/Rogue_05/"><img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
