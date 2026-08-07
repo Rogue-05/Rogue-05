@@ -70,17 +70,6 @@ I build AI systems that solve real-world problems — from graph neural networks
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rogue-05&show_icons=true&theme=github_dark"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogue-05&layout=compact&theme=github_dark"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Rogue-05&theme=github-dark"/>
-</p>
-
 ### 💻 LeetCode
 
 <p align="center">
