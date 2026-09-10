@@ -38,16 +38,16 @@ I build AI systems that solve real-world problems — from graph neural networks
 
 ### 📚 Publications
 
-- **Fourier vs. Attention: A Re-look at Protein Sequence Generative Models** — BICOB 2026
+- **[Fourier vs. Attention: A Re-look at Protein Sequence Generative Models](https://github.com/bashirgit/Fourier_vs._Attention)** — BICOB 2026
 - **Image Inpainting with Semantic Consistency** — CVIP 2025
 
 ---
 
 ### 🔬 Research
 
-- **GraphFNet** — Attention-free graph neural networks using spectral-local gating. *(Submitted to TMLR)*
-- **Audio Deepfake Detection** — Cross-dataset benchmarking of codec compression vs. neural vocoder shift, evaluated with AASIST and RawNet2.
-- **LLM Security** — Adversarial persuasion attacks against legal citation verification systems.
+- **[GraphFNet](https://github.com/Rogue-05/GraphFNet-Attention-Free-Graph-Learning-via-Learned-Spectral-Local-Gating)** — Attention-free graph neural networks using spectral-local gating. *(Submitted to ACM CIKM 2026)*
+- **[Audio Deepfake Detection](https://github.com/Rohan-756/ROBUSTNESS-OF-AUDIO-DEEPFAKE-DETECTORS-UNDER-LOSSY-CODEC-COMPRESSION)** — Cross-dataset benchmarking of codec compression vs. neural vocoder shift, evaluated with AASIST and RawNet2. *(Submitted to IEEE WIFS 2026)*
+- **[LLM Security — Persuading the Judge](https://github.com/Rogue-05/Persuading-the-Judge-Adversarial-Robustness-and-RAG-Mitigation-in-LLM-Based-Legal-Citation-Verifica)** — Adversarial persuasion attacks and RAG-based mitigation in LLM-based legal citation verification.
 
 ---
 
@@ -65,7 +65,6 @@ I build AI systems that solve real-world problems — from graph neural networks
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
