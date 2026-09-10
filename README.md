@@ -45,7 +45,7 @@ I build AI systems that solve real-world problems — from graph neural networks
 
 ### 🔬 Research
 
-- **GraphFNet** — Attention-free graph neural networks using spectral-local gating. *(Submitted to ACM CIKM 2026)*
+- **GraphFNet** — Attention-free graph neural networks using spectral-local gating. *(Submitted to TMLR)*
 - **Audio Deepfake Detection** — Cross-dataset benchmarking of codec compression vs. neural vocoder shift, evaluated with AASIST and RawNet2.
 - **LLM Security** — Adversarial persuasion attacks against legal citation verification systems.
 
